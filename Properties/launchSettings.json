@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SharpVMDK": {
+      "commandName": "Project",
+      "commandLineArgs": "./Laoda.vmdk 0 /root/root.txt ./root.txt",
+      "workingDirectory": "F:\\Flag_Machine\\test",
+      "hotReloadEnabled": false
+    }
+  }
+}
